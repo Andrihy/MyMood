@@ -1,8 +1,7 @@
 
+//WOW
+
 import SwiftUI
-
-
-
 
 class ListViewModel: ObservableObject {
  
